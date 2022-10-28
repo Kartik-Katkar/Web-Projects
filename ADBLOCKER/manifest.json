@@ -1,0 +1,16 @@
+{
+    "name" : "All Adblocker",
+    "version" : "1.0.0",
+    "description" : "This Adblocker blocks all the annoying ads that you have to deal with while browsing the WebPages. Happy Browsing!",
+    "permissions" : ["webRequest","webRequestBlocking","<all_urls>"],
+    "background" : {
+        "scripts": ["background.js"]
+    },
+    "icons" : {
+        "16": "icons/redhand_16x16.png",
+        "48": "icons/redhand_48x48.png",
+        "128":"icons/redhand_128x128.png"
+    },
+    "manifest_version" : 2
+
+}
