@@ -1,5 +1,7 @@
 <h1 align="center">Leaf Disease Detection using AI 👋</h1>
 
+  <a href="https://www.neuroquantology.com/article.php?id=10455">Read Publication</a>
+
 > Installation Steps
 ## Install the Dependencies provided in the requirements.txt file
 
@@ -34,3 +36,11 @@ Then simply copy and paste the development server on your local browser
 <p align="center">
   <img width="700" align="center" src="https://github.com/Kartik-Katkar/Web-Projects/blob/main/Plant%20Disease%20Identifier/README%20FILES/7.png" alt="Python main.py"/>
 </p>
+
+The follwing video shows the working of the Project 
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/Kartik-Katkar/Web-Projects/blob/main/Plant%20Disease%20Identifier/README%20FILES/LEAF%20DISEASE%20DETECTION%20-%20Google%20Chrome%202022-12-30%2012-51-28_compressed.mp4" type="video/mp4">
+  </video>
+</figure>
