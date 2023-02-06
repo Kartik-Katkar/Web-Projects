@@ -1,2 +1,3 @@
-# Web-Projects
-This repository contains all the Web Development Projects using various languages
+# web Projects
+
+This Repository contains all the Web Development Projects done in my First Year to learn various new languages and technologies
