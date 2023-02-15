@@ -1,3 +1,3 @@
 # web Projects
 
-This Repository contains the Web Development Projects through which you can learn various new languages and technologies
+These Web Development Projects were created with the intention of learning, and they are available in this Repository.
