@@ -1,3 +1,3 @@
-Complete Blackjack game created with Javascript 
+This is a complete Blackjack game Created with Javascript
 
-Blackjack = 21
+In this Game Blackjack is considered to be 21
