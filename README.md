@@ -1,3 +1,3 @@
 # Web Projects
 
-Web development project
+Web development projects
